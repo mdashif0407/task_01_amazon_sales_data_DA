@@ -1,6 +1,6 @@
 # task_01_amazon_sales_data_DA
-Amazon Sales cleaning task
-I PERFORMED THIS BELOW TASKS: 
+Amazon Sales cleaning task:
+ 
 Handled missing values (city, postal code, amount, qty)
 
 Removed duplicate rows
